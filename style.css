@@ -1,0 +1,21 @@
+* {
+    background-color: goldenrod;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: pink;
+    font-size: 28px;
+}
+
+li {
+    font-size: 28px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
